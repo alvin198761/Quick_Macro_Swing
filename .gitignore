@@ -61,3 +61,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.idea
+target
+Quick_Macro_Swing.iml
